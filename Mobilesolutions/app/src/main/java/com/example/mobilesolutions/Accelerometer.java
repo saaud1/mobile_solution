@@ -1,4 +1,4 @@
-package com.example.mobile;
+package com.example.mobilesolutions;
 
 import android.content.Context;
 import android.hardware.Sensor;

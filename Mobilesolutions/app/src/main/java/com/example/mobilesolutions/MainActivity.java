@@ -1,17 +1,17 @@
-package com.example.mobilesolutions;
 
+package com.example.mobilesolutions;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.graphics.Color;
 import android.os.Bundle;
 
-import com.example.mobile.Accelerometer;
-import com.example.mobile.Gyroscope;
+import com.example.mobilesolutions.Accelerometer;
+import com.example.mobilesolutions.Gyroscope;
 
 public class MainActivity extends AppCompatActivity {
 
-    private com.example.mobile.Accelerometer accelerometer;
-    private com.example.mobile.Gyroscope gyroscope;
+    private com.example.mobilesolutions.Accelerometer accelerometer;
+    private com.example.mobilesolutions.Gyroscope gyroscope;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
